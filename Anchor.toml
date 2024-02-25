@@ -11,7 +11,7 @@ student_intro = "EZVdGWwx3FTorwSFJFWw12BZRdevcqro4vs1Vm9NTg7Q"
 url = "https://api.apr.dev"
 
 [provider]
-cluster = "Devnet"
+cluster = "Localnet"
 wallet = "/home/sebatustra/my-solana-wallet/my-keypair.json"
 
 [scripts]
